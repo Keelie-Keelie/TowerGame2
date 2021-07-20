@@ -16,7 +16,7 @@ class slingshot{
         this.sling.bodyA = null;
     }
     attach(body){
-        this.block.BodyA=null;
+      
         this.sling.bodyA=body;
     }
     display(){
